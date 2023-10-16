@@ -8,4 +8,5 @@
 
 - 📫 How to reach me **angufibolinc@gmail.com**
 
-- ⚡ Fun fact **I love travelling and giving a smile to the world !**
+- ⚡ Fun fact **I love building for others**
+- ``Ask not what a programming language cannot do for you, but ask what you can do to bring about that change``
