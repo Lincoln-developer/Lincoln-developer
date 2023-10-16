@@ -9,5 +9,4 @@
 - 📫 How to reach me **angufibolinc@gmail.com**
 
 - ⚡ Fun fact **I love building for others !**
-- **Ask not what a programming language cannot do for you, but ask what can you do to bring about that change**
-- --By Joannah Nanjekye, a Core Python Developer--
+- **""Ask not what a programming language cannot do for you, but ask what can you do to bring about that change""** --Joannah Nanjekye, Core Python Developer.
