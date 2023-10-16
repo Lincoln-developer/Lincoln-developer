@@ -8,5 +8,5 @@
 
 - 📫 How to reach me **angufibolinc@gmail.com**
 
-- ⚡ Fun fact **I love building for others !**
+- ⚡ Fun fact **I love building software tools for others !**
 - **""Ask not what a programming language cannot do for you, but ask what you can do to bring about that change""** --Joannah Nanjekye, Core Python Developer.
