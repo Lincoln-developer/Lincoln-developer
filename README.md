@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lincoln</h1>
-<h1 align="center">A passionate software developer with a research oriented mindset focusing on C&Python programming. </h1>
+<h3 align="center">A passionate software developer with a research oriented mindset focusing on C&Python programming. </h3>
 
 - 🔭 I’m currently working on **CPython**
 
