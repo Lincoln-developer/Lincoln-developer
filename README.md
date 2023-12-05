@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently contributing to **CPython**
 
-- 🌱 **Backend Engineering with Python.**
+- 🌱 **Building with Python.**
 
 - 📫 How to reach me **angufibolinc@gmail.com**
 
