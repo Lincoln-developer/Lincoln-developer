@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Lincoln</h1>
-<h3 align="center">A passionate C&Python developer with a research oriented mindset. </h3>
+<h3 align="center">A passionate Python developer and open source enthusiast. </h3>
 
-- 🔭 I’m currently working on **CPython**
+- 🔭 I’m currently contributing to **CPython**
 
-- 🌱 I Love research and building **foundational software tools helping practitioners to program for speed, interoperability, interactivity, flexibility and reproducibility.**
+- 🌱 **Backend Engineering with Python.**
 
 - 📫 How to reach me **angufibolinc@gmail.com**
 
-- ⚡ Fun fact **I love building software tools for others !**
-- **""Ask not what a programming language cannot do for you, but ask what you can do to bring about that change""** --Joannah Nanjekye, Core Python Developer.
+- ⚡ Fun fact **I love building for others !**
+  
