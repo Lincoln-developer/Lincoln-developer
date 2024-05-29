@@ -1,12 +1,36 @@
-<h1 align="center">Hi 👋, I'm Lincoln</h1>
-<h3 align="center">A passionate Python developer and open-source enthusiast.</h3>
+# Hi there, I'm [Angufibo Lincoln] 👋
 
-<p align="center">I am a Python software developer, an open-source enthusiast, a community lead for Python Kampala, a vibrant community of Python enthusiasts in Uganda. I am also a part of the organizing committee for PyCon Uganda.</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Lincoln-developer&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Lincoln-developer?style=social)](https://github.com/Lincoln-developer?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
 
-<ul align="center">
-  <li>🌱 **Building with Python.**</li>
-  <li>📫 How to reach me: <strong>angufibolinc@gmail.com</strong></li>
-  <li>⚡ Fun fact: <strong>I love building for others!</strong></li>
-</ul>
+I am a Pythonista and a contributor to CPython. Passionate about open-source, software development, and continuous learning.
 
-  
+## 🚀 About Me
+
+- 🔭 I’m currently working on a streaming data pipeline.
+- 🌱 I’m currently learning concepts related to distributed systems, data engineering, and scalable architectures
+- 💬 Ask me about Python, CPython, and software architecture
+- 📫 How to reach me: [angufibolinc@gmail.com](mailto:angufibolinc@gmail.com)
+- ⚡ Fun fact: I building for other !
+
+## 🛠️ Programming Language
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lincoln-developer&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-developer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/linc-/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/angufibolinc)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angufibolinc@gmail.com)
+
+⭐️ From [Angufibo Lincoln](https://github.com/Lincoln-developer)
+
