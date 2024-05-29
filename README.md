@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lincoln-developer&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Lincoln-developer?style=social)](https://github.com/Lincoln-developer?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/angufibolinc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/angufibolinc?style=social)](https://twitter.com/angufibolinc)
 
 I am a Pythonista and a contributor to CPython. Passionate about open-source, software development, and continuous learning.
 
