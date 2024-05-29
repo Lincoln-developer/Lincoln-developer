@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lincoln-developer&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Lincoln-developer?style=social)](https://github.com/Lincoln-developer?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/angufibolinc)
 
 I am a Pythonista and a contributor to CPython. Passionate about open-source, software development, and continuous learning.
 
@@ -21,10 +21,6 @@ I am a Pythonista and a contributor to CPython. Passionate about open-source, so
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lincoln-developer&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lincoln-developer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with me
 
