@@ -12,7 +12,7 @@ I am a Pythonista and a contributor to CPython. Passionate about open-source, so
 - 🌱 I’m currently learning concepts related to distributed systems, data engineering, and scalable architectures
 - 💬 Ask me about Python, CPython, and software architecture
 - 📫 How to reach me: [angufibolinc@gmail.com](mailto:angufibolinc@gmail.com)
-- ⚡ Fun fact: I building for other !
+- ⚡ Fun fact: I love building for other !
 
 ## 🛠️ Programming Language
 
