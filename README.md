@@ -1,4 +1,4 @@
-# Hi there, I'm [Angufibo Lincoln] 👋
+# Hi there, I'm Angufibo Lincoln 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lincoln-developer&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Lincoln-developer?style=social)](https://github.com/Lincoln-developer?tab=followers)
@@ -14,9 +14,10 @@ I am a Pythonista and a contributor to CPython. Passionate about open-source, so
 - 📫 How to reach me: [angufibolinc@gmail.com](mailto:angufibolinc@gmail.com)
 - ⚡ Fun fact: I love building for other !
 
-## 🛠️ Programming Language
+## 🛠️ Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 
 ## 📈 GitHub Stats
 
