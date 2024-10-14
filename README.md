@@ -4,14 +4,15 @@
 
 💻 Aspiring Interpreter Engineer | CPython Contributor | Passionate Python Developer
 
-Hi there! 👋 I'm a Python developer with a deep love for interpreter design and performance optimization. My mission is to improve the internals of CPython and contribute to the performance and scalability of the Python ecosystem. ⚡ Fun fact: I love building for other !
+Hi there! 👋 I'm a Python developer with a deep love for interpreter design and performance optimization. My mission is to improve the internals of CPython and contribute to the performance and scalability of the Python ecosystem. 
+⚡ Fun fact: I love building for other !
 
 I specialize in:
 
-⚙️ Bytecode Optimization: Streamlining bytecode for faster execution
-🔁 Execution Loop Enhancements: Optimizing CPython’s core evaluation loop (ceval.c)
-🚀 Performance Improvements: Exploring new opcodes and memory-efficient paths
-📄 PEP Collaboration: Participating in Python Enhancement Proposals (PEPs) related to interpreter design
+- ⚙️ Bytecode Optimization: Streamlining bytecode for faster execution
+- 🔁 Execution Loop Enhancements: Optimizing CPython’s core evaluation loop (ceval.c)
+- 🚀 Performance Improvements: Exploring new opcodes and memory-efficient paths
+- 📄 PEP Collaboration: Participating in Python Enhancement Proposals (PEPs) related to interpreter design
 
 🌍 Career Vision
 I am on a journey to:
@@ -23,7 +24,7 @@ I am on a journey to:
 Currently, I am diving into "Crafting Interpreters" by Robert Nystrom to refine my understanding of virtual machines, bytecode mechanics, and execution models—knowledge that I apply to my CPython contributions.
 
 👀 Let’s Collaborate!
-I love connecting with like-minded developers passionate about Python internals and open-source contributions. If you're interested in Python's performance optimization, compiler theory, or CPython contributions, feel free to reach out!
+- I love connecting with like-minded developers passionate about Python internals and open-source contributions. If you're interested in Python's performance optimization, compiler theory, or CPython contributions, feel free to reach out!
 
 ⚡ Current Goals
 - Contribute impactful optimizations to CPython for real-world applications
