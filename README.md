@@ -5,7 +5,7 @@
 💻 Aspiring Interpreter Engineer | CPython Contributor | Passionate Python Developer
 
 Hi there! 👋 I'm a Python developer with a deep love for interpreter design and performance optimization. My mission is to improve the internals of CPython and contribute to the performance and scalability of the Python ecosystem. 
-⚡ Fun fact: I love building for other !
+⚡ Fun fact: I love building for others !
 
 I specialize in:
 
