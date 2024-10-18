@@ -2,9 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Lincoln-developer?style=social)](https://github.com/Lincoln-developer?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/angufibolinc?style=social)](https://twitter.com/angufibolinc)
 
-# Hi there! 👋
-
-## About Me
+## Hello! 👋
 I am a **Python Developer** with a deep passion for building maintainable, efficient, and scalable software solutions. My experience spans software design patterns, web architecture, and API design, allowing me to approach complex problems with a holistic perspective. I take pride in writing clean code and structuring systems that are reliable and future-ready.
 
 📫 Find Me Here: [angufibolinc@gmail.com](mailto:angufibolinc@gmail.com)
