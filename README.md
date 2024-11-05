@@ -40,7 +40,7 @@ I am committed to continuous improvement and currently exploring:
 
 ## 🤝 Let’s Connect!
 I welcome opportunities to connect with fellow documentation professionals, developers, and anyone interested in advancing software documentation practices. Feel free to reach out for collaboration or to discuss best practices!  
-You can connect with me on [LinkedIn](https://linkedin.com/in/linc-/) or email me at [angufibolinc@gmail.com].
+You can connect with me on [LinkedIn](https://linkedin.com/in/linc-/) or email me at angufibolinc@gmail.com.
 
 ---
 
