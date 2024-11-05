@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Angufibo Lincoln  
-### ✍️ Technical Writer | 📚 Software Documentation Specialist | 🌍 Open Source Enthusiast
+###  📚✍️ Software Documentation Specialist | 🌍 Open Source Enthusiast
 
-Welcome to my GitHub profile! I am a passionate **Technical Writer** and **Software Documentation Specialist** with a solid background in software development. My mission is to create clear, concise, and user-focused documentation that enhances both user experience and software usability.
+Welcome to my GitHub profile! I am a passionate **Software Documentation Specialist** with a solid background in software development. My mission is to create clear, concise, and user-focused documentation that enhances both user experience and software usability.
 
 ---
 
