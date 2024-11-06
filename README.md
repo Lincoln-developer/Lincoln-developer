@@ -13,7 +13,7 @@ With a focus on **software documentation**, I understand the critical role high-
 - **Technical Writing**: Tailored content for developers, end-users, and managers.
 - **Information Architecture**: Structuring documentation for clarity and ease of use.
 - **Visual Communication**: Enhancing documentation with graphics and visuals.
-- **Documentation Tools**: Proficient in Markdown, DocBook, and Confluence.
+- **Documentation Tools**: Proficient in  Sphinx, Docutils, reStructuredText (reST), Make and Makefiles, LaTeX, GitHub Actions and Continuous Integration (CI) Tools.
 
 ---
 
