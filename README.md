@@ -22,7 +22,7 @@ Currently, I am diving deep into data engineering, leveraging my backend experti
 
 ### **Data Engineering Tools** 
 - Apache Spark (for batch data processing)
-- Apache Kafka (for streaming data processing)
+- Apache Kafka (for stream data processing)
 - Apache Airflow (for workflow orchestration)
 - Pandas & NumPy (data manipulation and analysis)
 - PostgreSQL
