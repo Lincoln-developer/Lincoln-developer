@@ -10,7 +10,7 @@ Currently, I am diving deep into data engineering, leveraging my backend experti
 
 ---
 ### **Programming Languages**
-- 🐍 **Programming Language**: Python.
+- 🐍 **Python**.
 ---
 
 ## 🤝 Let’s Connect!
