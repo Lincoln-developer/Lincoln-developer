@@ -9,29 +9,8 @@ I'm a passionate **Pythonista**  and **Open Source Enthusiast** with a strong ba
 Currently, I am diving deep into data engineering, leveraging my backend expertise to build scalable and insightful data-driven systems.
 
 ---
-## 🛠️ **Tech Stark**
-
 ### **Programming Languages**
-- 🐍 **Programming Languages**: Python.
-
-### **Backend Tools & Frameworks**
-- Django / Django REST Framework
-- FastAPI
-- Celery (for task scheduling)
-- Redis (as a message broker)
-
-### **Data Engineering Tools** 
-- Apache Spark (for batch data processing)
-- Apache Kafka (for stream data processing)
-- Apache Airflow (for workflow orchestration)
-- Pandas & NumPy (data manipulation and analysis)
-- PostgreSQL
-- AWS S3
-
-### **Development Practices**
-- Agile Development with Scrum
-- Test-Driven Development (TDD)
-- Continuous Integration & Continuous Deployment (CI/CD)
+- 🐍 **Programming Language**: Python.
 ---
 
 ## 🤝 Let’s Connect!
