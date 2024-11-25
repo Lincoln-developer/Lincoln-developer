@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Lincoln  
-###  🐍 Pythonista | 🌍 Open Source Enthusiast
+###  🐍 Pythonista | CPython Contributor
 
 ---
 
